@@ -14,9 +14,6 @@ Autenticação: JWT (JSON Web Token)
 Funcionalidades
 Login de Usuário: A aplicação permite que um usuário se autentique usando um nome de usuário e senha.
 
-- Usuer: user | senha: L0XuwPOdS5U
-- Admin: admin | senha: JKSipm0YH
-
 Páginas Protegidas: Existem rotas protegidas que requerem um token JWT válido para acesso. As rotas incluem páginas específicas para usuários e administradores.
 Verificação de Saúde do Serviço: A aplicação verifica o status de saúde de um serviço e exibe uma mensagem sobre sua disponibilidade.
 Redirecionamento: O acesso a rotas protegidas é controlado com base no papel (usuário ou administrador), e usuários não autorizados são redirecionados para uma página de erro.
