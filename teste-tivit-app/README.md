@@ -68,9 +68,9 @@ O usuário pode fazer logout, o que limpa o token e o papel do estado, redirecio
 
 Serviços fakes utilizados conforme solicitado: 
 
-https://api-onecloud.multicloud.tivit.com/fake/health
-https://api-onecloud.multicloud.tivit.com/fake/admin
-https://api-onecloud.multicloud.tivit.com/fake/user
-https://api-onecloud.multicloud.tivit.com/fake/token
+- https://api-onecloud.multicloud.tivit.com/fake/health
+- https://api-onecloud.multicloud.tivit.com/fake/admin
+- https://api-onecloud.multicloud.tivit.com/fake/user
+- https://api-onecloud.multicloud.tivit.com/fake/token
 
 
